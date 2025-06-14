@@ -1,0 +1,14 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "bufferutil":"^4.0.1",
+  "utf-8-validate":"^5.0.2"
+}
