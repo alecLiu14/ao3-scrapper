@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "bufferutil":"^4.0.1",
-  "utf-8-validate":"^5.0.2"
+  "bufferutil": "^4.0.1",
+  "utf-8-validate": "^5.0.2",
+  "dependencies": {
+    "cheerio": "^1.1.0"
+  }
 }
